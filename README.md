@@ -2,7 +2,7 @@ Newton Raphson and Secant methods
 
 ==Description==
 
-The program takes a function f(x) and finds her roots using Newton Raphson
+The program takes a function f(x) and finds its roots using Newton Raphson
 and the Secant methods.
 
 The methods will stop on three conditions:
